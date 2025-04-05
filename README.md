@@ -1,4 +1,4 @@
-# Konkan Service Discovery
+# Konkan Finds
 
 An online platform designed for the local people of Konkan to offer services like accommodations, food, beach sports, and more to tourists. This website enables tourists to explore properties, book them, leave reviews, and share their experiences. Property owners can manage their listings by adding, updating, or deleting properties.
 
@@ -32,12 +32,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Akshay-Pachkate/Kokan-Service-Discovery.git
+   git clone https://github.com/Akshay-Pachkate/Konkan-Finds.git
 
 
 2. **Run the app:**
 ```sh
-cd ./Kokan-Service-Discovery
+cd ./Konkan-Finds
 
 npm Install
 npm run dev
